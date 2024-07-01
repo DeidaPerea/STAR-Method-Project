@@ -1,0 +1,67 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5v701KynaeD",
+  "title": "March challenge STAR non verbal communication deck",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Effective Communication Skills Interactive Presentation"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5ygdAFzGIBW",
+      "title": "Title S1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "63niPNq0G9A",
+      "title": "the handshake S2",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "61n6cw22xgI",
+      "title": "multiple choice handshake S3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6BsFnNY2EWm",
+      "title": "Eye Contact S4",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6LdN25UFebU",
+      "title": "True or False Eye contact S5",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6nJVLb117QH",
+      "title": "Drag and Drop S6",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5inbaj4Zv0T",
+      "title": "Reflection text S7",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5WL6L96zXh7",
+      "title": "Confidence test S8",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6oZvO0sfMiD",
+      "title": "Thank you S9",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1660,
+    "height": 995
+  },
+  "stage": {
+    "width": 1640,
+    "height": 924
+  }
+}
